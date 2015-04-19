@@ -1,0 +1,66 @@
+/*
+Goldenrod
+Simple, beautiful golden theme.
+ALCHEMIST
+1
+*/
+#dashboard_index, #right_column, #left_column, .post_avatar, .l-content, .identity {
+  background-color: goldenrod !important;
+}
+
+#right_column:after {
+  background: linear-gradient(to bottom, goldenrod, rgba(218, 165, 32, 0)) repeat scroll 0% 0% transparent
+}
+
+.follow_list_item_blog:before {
+  background-image: linear-gradient(to right, rgba(218, 165, 32, 0), goldenrod) !important;
+  border-right: 5px solid goldenrod !important;
+}
+
+.post_permalink {
+  border-top-color: goldenrod !important;
+  border-right-color: goldenrod !important;
+}
+
+.controls_section_item:hover {
+  color: goldenrod !important;
+}
+
+.identity .controls_section li:hover:not(.section_header):not(.selected_blog) {
+  background-color: rgb(184, 134, 11);
+}
+
+.post_avatar, .post_avatar_link {
+  background-color: goldenrod !important;
+}
+
+.l-header {
+  background-color: goldenrod;
+}
+
+.compose-button {
+  background-color: #F1C915;
+  border-color: #F1C915;
+}
+
+.dashboard_options_form {
+  background-color: rgb(184, 134, 11);
+  border-color: goldenrod;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.dashboard_options_form_disclaimer {
+  color: rgba(255, 255, 255, 0.6) !important;
+}
+
+.tab-notice--outlined {
+  border-color: goldenrod;
+}
+
+.tab_notice_value {
+  color: goldenrod !important;
+}
+
+.ui_peepr_glass {
+  background-color: rgba(218, 165, 32, 0.9);
+}
