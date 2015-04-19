@@ -41,6 +41,7 @@ ALCHEMIST
 .compose-button {
   background-color: #F1C915;
   border-color: #F1C915;
+  fill: #F1C915;
 }
 
 .dashboard_options_form {
