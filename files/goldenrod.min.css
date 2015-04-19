@@ -1,0 +1,7 @@
+/*
+Goldenrod
+Simple, beautiful golden theme.
+ALCHEMIST
+1
+*/
+#dashboard_index,#left_column,#right_column,.identity,.l-content,.post_avatar{background-color:#daa520!important}#right_column:after{background:linear-gradient(to bottom,#daa520,rgba(218,165,32,0))}.follow_list_item_blog:before{background-image:linear-gradient(to right,rgba(218,165,32,0),#daa520)!important;border-right:5px solid #daa520!important}.post_permalink{border-top-color:#daa520!important;border-right-color:#daa520!important}.controls_section_item:hover{color:#daa520!important}.identity .controls_section li:hover:not(.section_header):not(.selected_blog){background-color:#b8860b}.post_avatar,.post_avatar_link{background-color:#daa520!important}.l-header{background-color:#daa520}.compose-button{background-color:#F1C915;border-color:#F1C915}.dashboard_options_form{background-color:#b8860b;border-color:#daa520;color:rgba(255,255,255,.8)}.dashboard_options_form_disclaimer{color:rgba(255,255,255,.6)!important}.tab-notice--outlined{border-color:#daa520}.tab_notice_value{color:#daa520!important}.ui_peepr_glass{background-color:rgba(218,165,32,.9)}
