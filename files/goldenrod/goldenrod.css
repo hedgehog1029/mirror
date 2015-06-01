@@ -4,12 +4,16 @@ Simple, beautiful golden theme.
 ALCHEMIST
 1
 */
-#dashboard_index, #right_column, #left_column, .post_avatar, .l-content, .identity {
+#dashboard_index, #right_column, #left_column, .post_avatar, .l-content, .identity, .post_avatar, .post_avatar_link, .l-header {
   background-color: goldenrod !important;
 }
 
 #right_column:after {
   background: linear-gradient(to bottom, goldenrod, rgba(218, 165, 32, 0)) repeat scroll 0% 0% transparent
+}
+
+.post-forms-glass {
+  background-color: rgba(218, 165, 32, 0.9);
 }
 
 .follow_list_item_blog:before {
@@ -30,16 +34,7 @@ ALCHEMIST
   background-color: rgb(184, 134, 11);
 }
 
-.post_avatar, .post_avatar_link {
-  background-color: goldenrod !important;
-}
-
-.l-header {
-  background-color: goldenrod;
-}
-
 .compose-button {
-  background-color: #F1C915;
   border-color: #F1C915;
   fill: #F1C915;
 }
@@ -60,8 +55,4 @@ ALCHEMIST
 
 .tab_notice_value {
   color: goldenrod !important;
-}
-
-.ui_peepr_glass {
-  background-color: rgba(218, 165, 32, 0.9);
 }
