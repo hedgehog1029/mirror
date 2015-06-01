@@ -49,6 +49,10 @@ ALCHEMIST
   color: rgba(255, 255, 255, 0.6) !important;
 }
 
+.tab_notice {
+  background: #F1C915 none repeat scroll 0% 0%;
+}
+
 .tab-notice--outlined {
   border-color: goldenrod;
 }
