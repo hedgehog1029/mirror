@@ -12,6 +12,11 @@ ALCHEMIST
   background: linear-gradient(to bottom, goldenrod, rgba(218, 165, 32, 0)) repeat scroll 0% 0% transparent
 }
 
+ul#toaster li {
+  color: goldenrod !important;
+  background: goldenrod !important;
+}
+
 .post-forms-glass {
   background-color: rgba(218, 165, 32, 0.9);
 }
